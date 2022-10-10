@@ -1,2 +1,2 @@
 # Alchemy-Data-Analytics
-Code for Alchemy Data Analytics Project
+Python Code that generates correlation heatmaps for Alchemy Data Analytics Project
